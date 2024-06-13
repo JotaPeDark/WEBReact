@@ -1,0 +1,9 @@
+/* Header */
+
+.header {
+  background-color: #007bff;
+  color: #fff;
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+}
